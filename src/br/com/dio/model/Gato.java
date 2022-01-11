@@ -16,7 +16,7 @@ public class Gato {
         this.idade = idade;
     }
 
-    public String getNome() {
+    public String getNome(String s) {
         return nome;
     }
 
